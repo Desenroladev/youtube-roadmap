@@ -9,14 +9,14 @@ Você quer entrar no mundo da programação, mas não sabe por onde começar? O 
 
 | Aula                | Workshop                                                                                    | Horário/Data |
 |---------------------|---------------------------------------------------------------------------------------------|--------------|
-| [Aula 01](./aula01) | Python do Zero, Git e VScode: Primeiros Passos                                              | 19h - 19/02  |
-| [Aula 02](./aula02) | Variáveis, Tipos de Dados, Listas e Manipulação de Strings                                  | 19h - 21/02  |
-| [Aula 03](./aula03) | Estruturas Condicionais: `if`,`else`,`elif`, `match`, Operadores Lógicos e Relacionais      | 19h - 26/02  |
-| [Aula 04](./aula04) | Estruturas de Repetição: `for`, `while`, funções e instruções: `range`, `breat`, `continue` | 19h - 28/02  |
-| [Aula 05](./aula05) | Listas, Tuplas, Dicionarios e Conjuntos                                                     | 19h - 05/03  |
-| [Aula 06](./aula06) | Tratando Excerções, Leitura e Escrita de Arquivos                                           | 19h - 07/03  |
-| [Aula 07](./aula07) | Funções e Modularização                                                                     | 19h - 12/03  |
-| [Aula 08](./aula08) | Revisão e Exercícios                                                                        | 19h - 14/03  |
+| [Aula 01](./aula01) | Python do Zero, Git e VScode: Primeiros Passos                                              | 19h - 24/03  |
+| [Aula 02](./aula02) | Variáveis, Tipos de Dados, Listas e Manipulação de Strings                                  | 19h - 26/03  |
+| [Aula 03](./aula03) | Estruturas Condicionais: `if`,`else`,`elif`, `match`, Operadores Lógicos e Relacionais      | 19h - 31/03  |
+| [Aula 04](./aula04) | Estruturas de Repetição: `for`, `while`, funções e instruções: `range`, `breat`, `continue` | 19h - 02/04  |
+| [Aula 05](./aula05) | Listas, Tuplas, Dicionarios e Conjuntos                                                     | 19h - 07/04  |
+| [Aula 06](./aula06) | Tratando Excerções, Leitura e Escrita de Arquivos                                           | 19h - 09/04  |
+| [Aula 07](./aula07) | Funções e Modularização                                                                     | 19h - 14/04  |
+| [Aula 08](./aula08) | Revisão e Exercícios                                                                        | 19h - 16/04  |
 
 
 ## **O Que Você Vai aprender?**
