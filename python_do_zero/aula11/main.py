@@ -9,13 +9,7 @@ def encontra_nome_maior(produtos):
     return maior
 
 def completa_com_espaco(nome, tamanho):
-    diferenca = tamanho - len(nome)    
-    contador = 0
-    while contador < diferenca:
-        nome += " "
-        contador += 1
-
-    return nome
+    return nome + " " * (tamanho - len(nome))
 
 
 print("🍔 Bem vindo ao restaurante Desenrola Dev! 🍔")
